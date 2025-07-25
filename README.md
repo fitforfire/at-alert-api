@@ -1,4 +1,4 @@
-# AT-Alert
+# AT-Alert-API
 
 A service for retrieving and managing at-alert data, including spatial and temporal filtering, and automated email notifications for new alerts.
 
