@@ -57,3 +57,10 @@ The cronjob is scheduled using the `CRONJOB_SCHEDULE` environment variable. At e
 **Configuration:**
 - Set the `CRONJOB_SCHEDULE` variable to define how often the job runs (e.g., `0 * * * *` for every hour).
 - Ensure mail server settings are configured for email delivery.
+
+---
+
+## Startup
+
+- `npm run dev`: Starts the node server in watch mode
+- `npm run build`: Builds the dist files
